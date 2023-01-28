@@ -10,6 +10,7 @@ yarn
 ### 2.1 Run in the iOS simulator
 ```bash
 cd ios
+pod install
 cd ..
 yarn run ios
 ```
